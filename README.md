@@ -1,3 +1,4 @@
+# Weather Website
 Weather website is the simple web app made with instructions from Andrew Mead from the Udemy Course 'The Complete Node.js Developer Course (3rd Edition)'.
 It provides weather forecasts of the location entered using its geolocation (latitude and longitude), which includes whole address of location, current as well as minimum and maximum temperatures of the day and chances of precipitation.
 
